@@ -1,0 +1,3 @@
+D:\GameJam\GameJamFalJam2K19\MakeIt\Source\MakeIt\MakeIt.Build.cs
+D:\GameJam\GameJamFalJam2K19\MakeIt\Source\MakeIt.Target.cs
+D:\GameJam\GameJamFalJam2K19\MakeIt\Source\MakeItEditor.Target.cs
