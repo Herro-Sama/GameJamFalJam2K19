@@ -24,6 +24,9 @@ public:
 	virtual void Tick(float DeltaTime) override;
 
 	UPROPERTY(BlueprintReadWrite, EditAnywhere, Category = "Resource")
+		int ResourceType;
+	
+	UPROPERTY(BlueprintReadWrite, EditAnywhere, Category = "Resource")
 		bool HasBeenHarvested;
 
 	UPROPERTY(BlueprintReadWrite, EditAnywhere, Category = "Resource")
