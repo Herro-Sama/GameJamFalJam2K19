@@ -31,4 +31,7 @@ public:
 
 	UPROPERTY(BlueprintReadWrite, EditAnywhere, Category = "Resource")
 		int ResourceAmount;
+
+	UPROPERTY(BlueprintReadWrite, EditAnywhere, Category = "Resource")
+		FVector Location;
 };
